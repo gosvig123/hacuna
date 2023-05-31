@@ -1,4 +1,4 @@
-# hacuna
+# Hacuna
 
 ### Installation
 
