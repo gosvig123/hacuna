@@ -32,7 +32,7 @@ $ yarn dev
 
 ## Production
 
-When you're prepared for deployment, use the `start` script. This will run your compiled TypeScript code in production mode:
+When you're prepared for deployment, use the `start` script.
 
 ```bash
 $ yarn start
